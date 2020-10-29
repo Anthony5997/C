@@ -1,0 +1,5 @@
+Credentials cache: API:5DEB3919-8AF2-4CE6-BE10-0C2E8383F863
+        Principal: arita@42LYON.FR
+
+  Issued                Expires               Principal
+Oct  6 16:56:33 2020  Oct  7 16:56:33 2020  krbtgt/42LYON.FR@42LYON.FR
